@@ -1,0 +1,83 @@
+query,expected_intent
+hiya,greeting
+good evening,greeting
+ok bye then,goodbye
+thanks for your help,thanks
+when's the coursework deadline?,assignment_deadline
+what day does my report need to be in by,assignment_deadline
+by when must I finish the essay,assignment_deadline
+wen is the assigment due,assignment_deadline
+how do i upload my essay to canvas,assignment_submission
+where should my finished report be sent,assignment_submission
+is it a word document or pdf we hand in,assignment_submission
+how to sumbit courswork,assignment_submission
+could I have an extra week for my coursework,extension_request
+I need an extention on my assignment,extension_request
+my laptop broke and I can't finish in time,extension_request
+who do I ask to push back my deadline,extension_request
+what's the punishment for handing work in after the deadline,late_submission
+I handed my essay in a day late,late_submission
+do I lose marks if my work is overdue,late_submission
+I had the flu during the test what can I do,mitigating_circumstances
+there was a death in my family and I couldn't finish my work,mitigating_circumstances
+how do I claim mitigating circumstances,mitigating_circumstances
+is it ok to copy text from wikipedia,academic_misconduct
+my friend and I wrote our essays together is that a problem,academic_misconduct
+what happens if I plagiarise,academic_misconduct
+can I use chatgpt to write my assignment,academic_misconduct
+what time do my lectures start tomorrow,timetable
+which building is my class in,timetable
+where do I check my weekly schedule,timetable
+wheres my timetabel,timetable
+do lectures count towards attendance,attendance
+I'm ill and can't make it in today,attendance
+what if I skip a lab session,attendance
+is it mandatory to go to seminars,attendance
+I'd like to speak to my course leader,contact_course_leader
+what is my tutor's email address,contact_course_leader
+how do I arrange to see my personal tutor,contact_course_leader
+when do we find out our grades,grades_results
+how long until my essay is marked,grades_results
+where can I read the comments on my coursework,grades_results
+I didn't pass my exam can I take it again,resit
+what if I fail the resit too,resit
+will my mark be capped if I retake,resit
+what do I do if I flunk a module,resit
+when do exams take place,exam_info
+is a calculator allowed in the exam,exam_info
+where do I sit my exams,exam_info
+which modules will I take in second year,module_list
+give me a list of all course modules,module_list
+what topics are covered across the degree,module_list
+tell me about 5CS045,module_info
+what is Big Data about,module_info
+how is 6cs007 assessed,module_info
+what's covered in the full stack development module,module_info
+can you explain what a module involves,module_info
+when does the library close,library
+how many books can I take out,library
+where can I download journal articles,library
+I've been locked out of my account,it_support
+the wi-fi isn't working on my phone,it_support
+canvas won't let me sign in,it_support
+I forgot my pasword,it_support
+how do I do harvard citations,referencing
+what's the right way to reference a youtube video,referencing
+do I need a reference list at the end,referencing
+I'm feeling really overwhelmed,student_support
+is there someone I can talk to about my mental health,student_support
+I have dyslexia what help can I get,student_support
+I'm having money problems,student_support
+I want to move onto the software engineering degree,course_transfer
+can I take a year out,course_transfer
+I'm thinking about dropping out,course_transfer
+what's the weather like today,none
+who won the football last night,none
+can you order me a pizza,none
+what is the capital of France,none
+tell me a joke,none
+how much is a bus ticket into town,none
+write my assignment for me,none
+what is the meaning of life,none
+asdfghjkl,none
+where is the nearest supermarket,none

@@ -1,0 +1,187 @@
+query,intent
+hi,greeting
+hello,greeting
+hey,greeting
+hi there,greeting
+good morning,greeting
+good afternoon,greeting
+hello clva,greeting
+bye,goodbye
+goodbye,goodbye
+see you later,goodbye
+that is all for now,goodbye
+bye for now,goodbye
+thanks,thanks
+thank you,thanks
+thanks a lot,thanks
+thank you very much,thanks
+cheers,thanks
+that was helpful thanks,thanks
+when is my assignment due,assignment_deadline
+what is the deadline for the coursework,assignment_deadline
+when do I have to hand in my assignment,assignment_deadline
+where can I find assignment deadlines,assignment_deadline
+what date is the coursework due,assignment_deadline
+how long do I have to finish my assignment,assignment_deadline
+when is the submission deadline,assignment_deadline
+what are the due dates for my assessments,assignment_deadline
+how do I submit my assignment,assignment_submission
+where do I upload my coursework,assignment_submission
+how do I hand in my work,assignment_submission
+do I submit through turnitin,assignment_submission
+what file format should I upload,assignment_submission
+where is the submission link,assignment_submission
+how do I turn in my report,assignment_submission
+can I submit my assignment by email,assignment_submission
+can I get an extension,extension_request
+how do I apply for an extension,extension_request
+I need more time for my assignment,extension_request
+can my deadline be extended,extension_request
+how do I request extra time for coursework,extension_request
+who approves extensions,extension_request
+I will not finish my assignment on time what can I do,extension_request
+is it possible to get a few more days for my coursework,extension_request
+what happens if I submit late,late_submission
+is there a penalty for late submission,late_submission
+I missed the deadline what happens now,late_submission
+can I still hand in my work after the deadline,late_submission
+how many marks do I lose for handing in late,late_submission
+my assignment was submitted late,late_submission
+what is the late penalty,late_submission
+will my late coursework still be marked,late_submission
+how do I apply for mitigating circumstances,mitigating_circumstances
+I was ill during my exam what should I do,mitigating_circumstances
+what are extenuating circumstances,mitigating_circumstances
+I was sick and could not complete my assessment,mitigating_circumstances
+a family emergency affected my assignment,mitigating_circumstances
+how do I submit a mitigation claim,mitigating_circumstances
+what evidence do I need for mitigating circumstances,mitigating_circumstances
+I was in hospital during the assessment period,mitigating_circumstances
+what counts as plagiarism,academic_misconduct
+what is academic misconduct,academic_misconduct
+what happens if I am caught cheating,academic_misconduct
+can I work with a friend on my individual assignment,academic_misconduct
+what is collusion,academic_misconduct
+is copying from a website allowed,academic_misconduct
+what is the academic integrity policy,academic_misconduct
+can I use someone else's code in my assignment,academic_misconduct
+where can I find my timetable,timetable
+what time is my lecture,timetable
+when are my classes,timetable
+where is my lecture room,timetable
+how do I see my schedule,timetable
+what lessons do I have this week,timetable
+which room is my lab in,timetable
+has my lecture been moved,timetable
+do I have to attend lectures,attendance
+what if I miss a class,attendance
+how do I report an absence,attendance
+is attendance compulsory,attendance
+I cannot come to university today who do I tell,attendance
+what happens if my attendance is low,attendance
+is attendance monitored,attendance
+I am going to be absent next week,attendance
+how do I contact my course leader,contact_course_leader
+who is my personal tutor,contact_course_leader
+how can I email my lecturer,contact_course_leader
+when are the course leader's office hours,contact_course_leader
+who do I speak to about my course,contact_course_leader
+how do I book a meeting with my tutor,contact_course_leader
+who is the programme leader,contact_course_leader
+where can I find my lecturer's contact details,contact_course_leader
+when will I get my marks,grades_results
+where can I see my grades,grades_results
+how do I get feedback on my assignment,grades_results
+when are results released,grades_results
+how long does marking take,grades_results
+where is my feedback,grades_results
+has my assignment been marked yet,grades_results
+are my marks final,grades_results
+what happens if I fail a module,resit
+can I resit an assessment,resit
+how do resits work,resit
+I failed my assignment what now,resit
+when is the resit period,resit
+can I retake a module,resit
+is the resit mark capped,resit
+do I get another attempt if I do not pass,resit
+when are my exams,exam_info
+where is the exam timetable,exam_info
+what do I need to bring to an exam,exam_info
+where will my exam be held,exam_info
+what room is my exam in,exam_info
+when is the exam period,exam_info
+do I need my student ID for the exam,exam_info
+how do I find out my exam dates,exam_info
+what modules do I study,module_list
+list all the modules,module_list
+which modules are in year 2,module_list
+what are the first year modules,module_list
+show me the modules on the course,module_list
+what will I study in final year,module_list
+what subjects are taught on this course,module_list
+what does the course cover,module_list
+tell me about a module,module_info
+what is this module about,module_info
+how is the module assessed,module_info
+I want module information,module_info
+give me details of a module,module_info
+what does a module cover,module_info
+what is the assessment for a module,module_info
+describe a module for me,module_info
+how do I borrow books from the library,library
+what are the library opening hours,library
+how do I access journals,library
+where can I find e-books,library
+how do I renew a library book,library
+where can I find a quiet place to study,library
+how do I search the library catalogue,library
+can I get research papers through the university,library
+I forgot my password,it_support
+how do I connect to the wifi,it_support
+I cannot log in to Canvas,it_support
+who do I contact for IT help,it_support
+how do I reset my university password,it_support
+my university account is locked,it_support
+how do I connect to eduroam,it_support
+my laptop will not connect to the internet on campus,it_support
+what referencing style should I use,referencing
+how do I reference a website,referencing
+do we use Harvard referencing,referencing
+how do I cite a journal article,referencing
+where is the referencing guide,referencing
+how do I write a bibliography,referencing
+how should I credit my sources,referencing
+how do I reference a book,referencing
+who can I talk to about stress,student_support
+where can I get wellbeing support,student_support
+how do I book a counselling appointment,student_support
+is there support for students with a disability,student_support
+I am struggling and need help,student_support
+I am worried about money,student_support
+I feel anxious about university,student_support
+what support services are available,student_support
+how do I change my course,course_transfer
+can I transfer to another course,course_transfer
+I want to withdraw from university,course_transfer
+can I take a break from my studies,course_transfer
+how do I switch to a different degree,course_transfer
+can I change one of my modules,course_transfer
+I am thinking of leaving the course,course_transfer
+how do I pause my studies for a year,course_transfer
+how do I check in to my lecture,attendance
+where do I enter the attendance code,attendance
+how do I use student check-in,attendance
+where is mytimetable,timetable
+how do I log in to mytimetable,timetable
+how do I contact ASK@WLV,contact_course_leader
+who is my student success coach,contact_course_leader
+how do I log a helpcall,contact_course_leader
+how do I set up MFA,it_support
+where is the IT service desk,it_support
+when is my personal exam timetable published,exam_info
+how do I claim extenuating circumstances in e:Vision,mitigating_circumstances
+what does fit to sit mean,mitigating_circumstances
+can I use ChatGPT in my assignment,academic_misconduct
+how do I take a leave of absence,course_transfer
+how do I use RefWorks,referencing
